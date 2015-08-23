@@ -23,5 +23,8 @@
   "homepage": "https://github.com/ashaffer/declarative-fetch",
   "dependencies": {
     "declarative-promise": "git://github.com/ashaffer/declarative-promise"
+  },
+  "devDependencies": {
+    "standard": "^5.1.0"
   }
 }
