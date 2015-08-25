@@ -3,6 +3,7 @@
 #
 
 BIN=node_modules/.bin/
+.DEFAULT_GOAL := all
 
 #
 # Tasks
@@ -11,4 +12,6 @@ BIN=node_modules/.bin/
 validate:
 	@${BIN}/standard
 
-.PHONY: standard
+all: validate
+
+.PHONY: standard all validate
