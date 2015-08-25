@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/redux-effects/declarative-fetch",
   "dependencies": {
-    "declarative-promise": "git://github.com/redux-effects/declarative-promise"
+    "declarative-effect": "^0.1.3"
   },
   "devDependencies": {
     "babel": "^5.8.21",
