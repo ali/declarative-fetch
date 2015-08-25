@@ -1,6 +1,6 @@
 {
   "name": "declarative-fetch",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Fetch description generator.  This package does not actually execute any fetches, it simply provides an API identical to the standard fetch for producing descriptions of fetch operations that are compatible with redux-fetch middleware.",
   "main": "lib/index.js",
   "scripts": {
