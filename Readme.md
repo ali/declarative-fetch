@@ -1,6 +1,6 @@
 # declarative-fetch
 
-Pure fetch function.  Mimics the fetch API, but produces a javascript object describing the fetch to be performed, that can be executed by libraries like [redux-fetch](https://github.com/reudx-effects/redux-fetch).
+Pure fetch function.  Mimics the fetch API, but produces a javascript object describing the fetch to be performed, that can be executed by libraries like [redux-effects-fetch](https://github.com/redux-effects/redux-effects-fetch).
 
 ## Installation
 
